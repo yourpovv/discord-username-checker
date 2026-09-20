@@ -4,6 +4,14 @@
 
 **I have been gate keeping this project for years now, it's time I release it.**
 
+![Language](https://img.shields.io/badge/Go-Golang-00ADD8?logo=go&logoColor=white)
+[![GitHub](https://img.shields.io/github/stars/yourpovv/discord-username-checker?style=social)](https://github.com/yourpovv/discord-username-checker)
+
+[Watch the showcase on Youtube](https://www.youtube.com/watch?v=TMPTcILkatA)
+
+<a href="https://www.youtube.com/watch?v=TMPTcILkatA">
+  <img src="https://img.youtube.com/vi/TMPTcILkatA/maxresdefault.jpg" alt="Watch the showcase on YouTube" width="600">
+</a>
 
 </div>
 
